@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+crop	max_vehicle.cpp	8;"	d	file:
+debug	max_vehicle.cpp	6;"	d	file:
+main	max_vehicle.cpp	/^int main(int argc,char** argv)$/;"	f
+shadowBound	max_vehicle.cpp	/^double shadowBound(const IplImage* roi)$/;"	f
+shadowBound2	max_vehicle.cpp	/^double shadowBound2(const IplImage* roi)$/;"	f
+sobel	max_vehicle.cpp	/^int sobel(const IplImage* roi,IplImage* roi_sobel)$/;"	f
+threshold	max_vehicle.cpp	/^int threshold(const IplImage* src,IplImage* dst,const double threshold,const unsigned char max_value)$/;"	f
+whitePointsRate	max_vehicle.cpp	/^float whitePointsRate(const IplImage* roi_sobel,const int row,const int cb,const int ce)$/;"	f
